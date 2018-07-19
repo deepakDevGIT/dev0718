@@ -1,0 +1,4 @@
+applications:
+- name : SpringJPADemo
+memory : 1024M
+buildpack : java_buildpack
